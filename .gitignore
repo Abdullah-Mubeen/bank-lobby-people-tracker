@@ -1,0 +1,50 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# 📦 Virtual Environments
+env/
+venv/
+ENV/
+yenv/
+.venv/
+
+# 📂 IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 📄 Logs and Outputs
+*.log
+logs/
+*.tmp
+*.bak
+
+# 🎥 Video & Image Outputs
+outputs/
+*.mp4
+*.avi
+*.png
+*.jpg
+*.jpeg
+
+# ⚖️ Model Weights (optional – comment this if sharing model)
+weights/
+*.pt
+*.onnx
+
+# 🔐 System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# 🚫 Misc
+*.swp
+*.zip
+*.tar.gz
+*.egg-info/
