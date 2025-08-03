@@ -2,9 +2,3 @@ ultralytics
 opencv-python
 numpy
 filterpy
-scikit-learn
-lap
-torch
-torchvision
-strong_sort
-cython
